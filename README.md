@@ -50,20 +50,20 @@ The Bengaluru Metro System project provides a GUI interface for calculating metr
    <img src="images/main.png" alt="Before Data Entry" width="400"/>
    </p>
    <p align="center">
-   **Before Data Entry:** Displays the main screen of the application before any data is entered.
+   Before Data Entry: Displays the main screen of the application before any data is entered.
    </p>
 
    <p align="center">
    <img src="images/error.png" alt="Error Image" width="400"/>
    </p>
    <p align="center">
-   **Error Image:** Shows an error message when invalid data is entered or if there are issues with the station information.
+   Error Image: Shows an error message when invalid data is entered or if there are issues with the station information.
    </p>
 
    <p align="center">
    <img src="images/output.png" alt="Output Image" width="400"/>
    </p>
    <p align="center">
-   **Output Image:** Displays the result after processing the data, including travel details and the generated QR code.
+   Output Image: Displays the result after processing the data, including travel details and the generated QR code.
    </p>
 
